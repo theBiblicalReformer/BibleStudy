@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7a226f5fdc1ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e8ddd3ccc0ea7c9c",
@@ -146,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97fbbccd31172945",
+  "active": "e7a226f5fdc1ccd2",
   "lastOpenFiles": [
     "Ephesians/Eph2/Made Alive in Christ.md",
-    "Romans/Rom1/God’s Wrath Against Sinful Humanity.md",
     "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
+    "Romans/Rom1/God’s Wrath Against Sinful Humanity.md",
     "Acts/Acts1/Jesus Taken Up Into Heaven.md",
     "Ephesians/Eph2",
     "Ephesians",
