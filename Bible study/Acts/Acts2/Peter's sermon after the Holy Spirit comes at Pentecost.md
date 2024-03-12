@@ -1,0 +1,1 @@
+1. Peter was standing with the eleven (including Peter himself?) and address 

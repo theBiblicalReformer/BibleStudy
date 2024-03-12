@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
+                "file": "Ephesians/Eph3/God’s Marvelous Plan for the Gentiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "e7a226f5fdc1ccd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e8ddd3ccc0ea7c9c",
@@ -99,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
+                "file": "Ephesians/Eph3/God’s Marvelous Plan for the Gentiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
+                "file": "Ephesians/Eph3/God’s Marvelous Plan for the Gentiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md"
+                "file": "Ephesians/Eph3/God’s Marvelous Plan for the Gentiles.md"
               }
             }
           }
@@ -160,18 +154,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a226f5fdc1ccd2",
+  "active": "97fbbccd31172945",
   "lastOpenFiles": [
     "Ephesians/Eph2/Made Alive in Christ.md",
     "Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
-    "Romans/Rom1/God’s Wrath Against Sinful Humanity.md",
+    "Ephesians/Eph3/God’s Marvelous Plan for the Gentiles.md",
+    "Ephesians/Eph3",
+    "Ephesians/Eph2/Images/cornerstone.png",
+    "Ephesians/Eph2/Images",
+    "Acts/Acts2/The Holy Spirit Comes at Pentecost.md",
+    "Acts/Acts2/Peter's sermon after the Holy Spirit comes at Pentecost.md",
+    "Galatians/Ga3/Faith or Works of the Law.md",
     "Acts/Acts1/Jesus Taken Up Into Heaven.md",
+    "Romans/Rom1/God’s Wrath Against Sinful Humanity.md",
     "Ephesians/Eph2",
     "Ephesians",
-    "Acts/Acts2/Peter's sermon after the Holy Spirit comes at Pentecost.md",
-    "Acts/Acts2/The Holy Spirit Comes at Pentecost.md",
     "Acts/Acts1",
-    "Galatians/Ga3/Faith or Works of the Law.md",
     "Acts/Acts2",
     "Acts",
     "Galatians/Ga3",
@@ -183,10 +181,8 @@
     "Romans",
     "Galatians/Ga2/Paul Opposes Cephas.md",
     "Galatians/Ga2/Paul Accepted by the Apostles.md",
-    "Galatians/Ga2",
     "Welcome.md",
     "create a link.md",
-    "Gen1/The creation.md",
-    "Gen1"
+    "Gen1/The creation.md"
   ]
 }

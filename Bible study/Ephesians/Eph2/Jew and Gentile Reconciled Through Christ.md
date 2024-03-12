@@ -14,10 +14,10 @@
 13. Christ came to preach the gospel, the good news for the Ephesians (Gentiles) who were far away and also for those who were near means the Jews. The question about Matthew 15:24 may rise, “I was sent only to the lost sheep of Israel.” said by Jesus in that time because the Jews was Christ's first priority. [[Jew and Gentile Reconciled Through Christ#^f5c4f8]]
 14. Through the cross, through Christ, through one door, one way, one truth and one life which is Christ mentioned in John 10:9, John 14:6 both of the Jews and Gentiles have access to the Father through one Spirit, meaning Holy Spirit draws both Jews and Gentiles to the repentance and faith in Jesus Christ so they can have peace with God and come to Father
 15. Because of that, we are not outsiders without rights of citizenship, but citizens with the saints (God's people) and members of God's household
-16. having been built on the foundation of the apostles and prophets, with Christ Jesus Himself as the chief Cornerstone...
-
-
-
+16. having been built on the foundation of the apostles and prophets, the foundation of the apostles and prophets built is their preaching, the solidity of the foundation is based on the unity of their doctrines centering in Christ
+![[cornerstone.png]]
+17. In Christ, the whole building is joined together and rises to become a holy temple in the Lord, the whole building includes Christ is the chief cornerstone, foundation is the doctrines of the apostles and prophets. Not only individual believers are called the temple of Holy Spirit but also when God joined together all the believers they should become one temple of God, which metaphor from Paul encouraged the unity of the invisible church
+18. In Christ, Paul mentioned the Ephesians are also built together into the temple of God, the temple is the inhabitation of God through Holy Spirit
 
 
 > The Jews was Christ's first priority for preaching the good news because:
@@ -28,3 +28,5 @@
 > + In saying things above doesn't mean the plan for the Gentiles was not prepared, the plan for the Gentiles was predestined before the foundation of the world and also mentioned in other places in the Old Testament (Hosea 2:23, Zechariah 2:11...)
 
 ^f5c4f8
+
+> Christ is the cornerstone of the foundation (doctrines) preached, taught by apostles and prophets, believers are bricks built into the temple which is God's dwelling place through Holy Spirit
