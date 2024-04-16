@@ -5,3 +5,4 @@
 4. Surely, or some using "if indeed", the Ephesians heard about the stewardship of God's grace which given to Paul for the Ephesians, the thing that the Ephesians received by Paul (surface) is the mystery given to him through God's revelation as he wrote above
 5. In reading the previous part of the letter, then, the Ephesians will be able to understand his insight into the mystery of Christ,
 6. The mystery of Christ was not made known the generations in the past but now it has been revealed by Holy Spirit to God's holy apostle and prophets. The mystery is that through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus.
+7. Paul became a servant of the gospel he mentioned above because of God's grace through the working of God's power
