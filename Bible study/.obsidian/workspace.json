@@ -4,47 +4,101 @@
     "type": "split",
     "children": [
       {
-        "id": "665fde987303c6f9",
+        "id": "3b550b383a0453ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ae45281c8840f63b",
+            "id": "426bb04d001d3ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verse by verse/Genesis/Gen41/Pharaoh’s Dreams.md",
+                "file": "Verse by verse/Daniel/Dan9/The Seventy “Sevens” (The Seventy Weeks).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc213503efe370c3",
+            "id": "cdea68d493bad781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verse by verse/Revelation/Rev12/The Woman and the Dragon.md",
+                "file": "Verse by verse/Daniel/Dan7/The Interpretation of the Dream.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30a198856ec68410",
+            "id": "6ad34f8df91a5f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verse by verse/Genesis/Gen37/Joseph's dream.md",
+                "file": "Verse by verse/Daniel/Dan7/Daniel’s Dream of Four Beasts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07cf1e075b04ef99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verse by verse/Daniel/Dan5/The Writing on the Wall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18f8c0abfd551b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae024267d2ba5aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verse by verse/Daniel/Dan2/Nebuchadnezzar’s Dream.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
+      },
+      {
+        "id": "2673c8a0c937d720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65f0ff27b62400c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verse by verse/Genesis/Gen37/Joseph's dream.md",
+                "file": "Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Verse by verse/Genesis/Gen37/Joseph's dream.md",
+                "file": "Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Verse by verse/Genesis/Gen37/Joseph's dream.md"
+                "file": "Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md"
               }
             }
           }
@@ -163,8 +217,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -172,12 +226,96 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "30a198856ec68410",
+  "floating": {
+    "id": "daf240ed454d6943",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f8c58820a8f0e491",
+        "type": "window",
+        "children": [
+          {
+            "id": "db625b461d49d8fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3e2e43392afedacb",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Daniel 70 7s.canvas",
+                    "viewState": {
+                      "x": 8448.318782979622,
+                      "y": 330.6284905713427,
+                      "zoom": 0.19999999999999996
+                    }
+                  }
+                }
+              },
+              {
+                "id": "154c14f3f73c055e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Verse by verse/Daniel/Dan7/Daniel’s Dream of Four Beasts.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1588,
+        "y": 403,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "65f0ff27b62400c0",
   "lastOpenFiles": [
-    "Verse by verse/Genesis/Gen41/Pharaoh’s Dreams.md",
-    "Verse by verse/Genesis/Gen37/Joseph's dream.md",
-    "How to Study the Bible.md",
-    "Verse by verse/Genesis/Gen41",
+    "Daniel 70 7s.canvas",
+    "Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md",
+    "Verse by verse/Daniel/Dan5/The Writing on the Wall.md",
+    "Verse by verse/Daniel/Dan2/Nebuchadnezzar’s Dream.md",
+    "Verse by verse/Daniel/Dan7/Daniel’s Dream of Four Beasts.md",
+    "Verse by verse/Daniel/Dan5",
+    "Verse by verse/Daniel/Dan2",
+    "Verse by verse/Matthew/Matt24/The Destruction of the Temple and Signs of the End Times.md",
+    "Verse by verse/Daniel/Dan7/The Interpretation of the Dream.md",
+    "Verse by verse/Revelation/Rev13/The Beast out of the Sea.md",
+    "Verse by verse/Daniel/Dan9/The Seventy “Sevens” (The Seventy Weeks).md",
+    "Verse by verse/Matthew/Matt24",
+    "Verse by verse/Luke/Lu24/The Ascension of Jesus.md",
+    "Verse by verse/Matthew/Matt28/The Great Commission.md",
+    "Verse by verse/Luke/Lu24",
+    "Verse by verse/Matthew/Matt28",
+    "Verse by verse/Matthew",
+    "Verse by verse/Hebrews/Heb10/Christ’s Sacrifice Once for All.md",
+    "Verse by verse/Nehemiah/Neh2/Nehemiah Inspects Jerusalem’s Walls.md",
+    "Verse by verse/Luke/Lu2/The Birth of Jesus.md",
+    "Verse by verse/Hebrews/Heb10",
+    "Verse by verse/Hebrews",
+    "Verse by verse/Jeremiah/Jer52/The Fall of Jerusalem.md",
+    "Verse by verse/Luke/Lu2",
+    "Verse by verse/Daniel/Dan12/The End Times.md",
+    "Verse by verse/Jeremiah/Jer52",
+    "Verse by verse/Daniel/Dan8/Daniel’s Vision of a Ram and a Goat.md",
+    "Verse by verse/Daniel/Dan8/The Interpretation of the Vision.md",
+    "Verse by verse/Revelation/Rev13/The Beast out of the Earth.md",
+    "Verse by verse/Revelation/Rev20/The Judgment of the Dead.md",
+    "Verse by verse/Revelation/Rev12/The Woman and the Dragon.md",
+    "Verse by verse/1 Thessalonians/1Thes4/Believers Who Have Died.md",
+    "Verse by verse/1 Thessalonians/1Thes4/Living to Please God.md",
+    "Verse by verse/1 Corinthians/1Cor 15/The Resurrection of the Dead.md",
+    "Verse by verse/Luke/Lu23/The Death of Jesus.md",
+    "Verse by verse/Luke/Lu4/Jesus Rejected at Nazareth.md",
     "Pasted image 20240622223313.png",
     "Pasted image 20240622223238.png",
     "Pasted image 20240622223138.png",
@@ -187,38 +325,6 @@
     "Pasted image 20240622220332.png",
     "Pasted image 20240621235409.png",
     "Pasted image 20240621235142.png",
-    "Verse by verse/Revelation/Rev12/The Woman and the Dragon.md",
-    "Verse by verse/Genesis/Gen35/The Deaths of Rachel and Isaac.md",
-    "Verse by verse/Genesis/Gen35",
-    "Verse by verse/Genesis/Gen42/Joseph’s Brothers Go to Egypt.md",
-    "Verse by verse/Genesis/Gen42",
-    "Verse by verse/Genesis/Gen37/images",
-    "Verse by verse/Genesis/Gen37/images/Canaan-Bethel.png",
-    "Verse by verse/1 Thessalonians/1Thes4/Living to Please God.md",
-    "Ultimate rules/Sanctification/Proactive (Human responsibilities)/Absolute.md",
-    "Verse by verse/Genesis/Gen3/The Fall.md",
-    "Ultimate rules/Anthropology/Absolute.md",
-    "Verse by verse/1 Thessalonians/1Thes4",
-    "Verse by verse/1 Thessalonians",
-    "Ultimate rules/Anthropology/Relative.md",
-    "Ultimate rules/Sanctification/Passive (Human passive, God's work)",
-    "Ultimate rules/Sanctification/Proactive (Human responsibilities)",
-    "Ultimate rules/Sanctification",
-    "Verse by verse/Song of Solomon/SoS2/Dialogue between a man and woman.md",
-    "Verse by verse/Isaiah/Isa9/Isaiah 9.md",
-    "Verse by verse/Isaiah/Isa14/Isaiah 14.md",
-    "Verse by verse/Isaiah/Isa14",
-    "Verse by verse/Genesis/Gen1/The creation.md",
-    "Verse by verse/Genesis/Gen2/Adam and Eve.md",
-    "Verse by verse/Ecclesiastes/Ecc5/Riches Are Meaningless.md",
-    "Verse by verse/Romans/Rom1/God’s Righteous Judgment.md",
-    "Verse by verse/Romans/Rom1/God’s Wrath Against Sinful Humanity.md",
-    "Verse by verse/Ephesians/Eph4/Unity and Maturity in the Body of Christ.md",
-    "Verse by verse/Ephesians/Eph2/Made Alive in Christ.md",
-    "Verse by verse/Ephesians/Eph3/God’s Marvelous Plan for the Gentiles.md",
-    "Verse by verse/Ephesians/Eph2/Jew and Gentile Reconciled Through Christ.md",
-    "Verse by verse/Acts/Acts2/The Holy Spirit Comes at Pentecost.md",
-    "Verse by verse/Acts/Acts2/Peter's sermon after the Holy Spirit comes at Pentecost.md",
-    "Verse by verse/Galatians/Ga3/Faith or Works of the Law.md"
+    "Verse by verse/Genesis/Gen37/images/Canaan-Bethel.png"
   ]
 }
