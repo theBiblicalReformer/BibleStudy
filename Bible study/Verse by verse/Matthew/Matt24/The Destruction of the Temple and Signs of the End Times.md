@@ -11,7 +11,7 @@
 11. and many false prophets will appear and deceive many people.
 12. Because of the increase of wickedness, the love of most will grow cold,
 13. but the one who stands firm to the end will be saved.
-14. And this gospel of the kingdom will be preached in the whole world as a testimony to all nations, and then the end will come.
+14. And this gospel of the kingdom will be preached ==in the whole world== as a ==testimony== to ==all nations==, and then the end will come.
 15.  “So when you see standing in the holy place ‘the abomination that causes desolation,’ spoken of through the prophet Daniel—let the reader understand— [[The Seventy “Sevens” (The Seventy Weeks)#^b8298e]] ^1a48cc
 16. then let those who are in Judea flee to the mountains.
 17. Let no one on the housetop go down to take anything out of the house.
@@ -26,7 +26,7 @@
 26.  “So if anyone tells you, ‘There he is, out in the wilderness,’ do not go out; or, ‘Here he is, in the inner rooms,’ do not believe it.
 27. For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.[[Daniel’s Dream of Four Beasts#^d25991]]
 28. Wherever there is a carcass, there the vultures will gather.
-29.  “Immediately after the distress of those days “ ‘the sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the heavenly bodies will be shaken.’
+29.  “Immediately after the distress of those days ==“ ‘the sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the heavenly bodies will be shaken.==’ [[A Prophecy Against Babylon#^c7b782]] [[An Army of Locusts#^1a694e]]
 30.  “Then will appear the sign of the Son of Man in heaven. And then all the peoples of the earth will mourn when they see the Son of Man coming on the clouds of heaven, with power and great glory.  [[Daniel’s Dream of Four Beasts#^d25991]]
 31. And he will send his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of the heavens to the other.
 32.  “Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near.

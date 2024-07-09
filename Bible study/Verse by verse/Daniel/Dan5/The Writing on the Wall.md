@@ -28,4 +28,4 @@
 28.  Peres: Your kingdom is divided and given to the Medes and Persians.”
 29. Then at Belshazzar’s command, Daniel was clothed in purple, a gold chain was placed around his neck, and he was proclaimed the third highest ruler in the kingdom.
 30. That very night Belshazzar, king of the Babylonians, was slain, 
-31. and Darius the Mede took over the kingdom, at the age of sixty-two. ^f36bf0
+31. and ==Darius the Mede== took over the kingdom, at the age of sixty-two. ^f36bf0

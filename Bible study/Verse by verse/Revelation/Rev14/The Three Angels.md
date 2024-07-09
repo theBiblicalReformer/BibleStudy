@@ -1,0 +1,8 @@
+1. Then I saw another angel flying in midair, and he had the eternal gospel to proclaim to those who live on the earth—to every nation, tribe, language and people. 
+2. He said in a loud voice, “Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.”
+3. A second angel followed and said, “ ‘Fallen! Fallen is Babylon the Great,’ which made all the nations drink the maddening wine of her adulteries.”
+4. A third angel followed them and said in a loud voice: “If anyone worships the beast and its image and receives its mark on their forehead or on their hand, 
+5. they, too, will drink the wine of God’s fury, which has been poured full strength into the cup of his wrath. They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. 
+6. And the smoke of their torment will rise for ever and ever. There will be no rest day or night for those who worship the beast and its image, or for anyone who receives the mark of its name.” 
+7. This calls for patient endurance on the part of the people of God who keep his commands and remain faithful to Jesus.
+8. Then I heard a voice from heaven say, “Write this: Blessed are the dead who die in the Lord from now on.” “Yes,” says the Spirit, “they will rest from their labor, for their deeds will follow them.”

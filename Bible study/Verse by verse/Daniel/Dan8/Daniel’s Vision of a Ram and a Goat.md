@@ -4,7 +4,7 @@
 4. I watched the ram as it charged toward the west and the north and the south. No animal could stand against it, and none could rescue from its power. It did as it pleased and became great.
 5. As I was thinking about this, suddenly a goat with a prominent horn between its eyes came from the west, crossing the whole earth without touching the ground. 
 6. It came toward the two-horned ram I had seen standing beside the canal and charged at it in great rage. 
-7. I saw it attack the ram furiously, striking the ram and shattering its two horns. The ram was powerless to stand against it; the goat knocked it to the ground and trampled on it, and none could rescue the ram from its power. 
+7. I saw it attack the ram furiously, striking the ram and shattering its two horns. The ram was powerless to stand against it; the goat knocked it to the ground and trampled on it, and none could rescue the ram from its power.  ^6032e7
 8. The goat became very great, but at the height of its power the large horn was broken off, and in its place four prominent horns grew up toward the four winds of heaven.
 9. Out of one of them came another horn, which started small but grew in power to the south and to the east and toward the Beautiful Land. 
 10. It grew until it reached the host of the heavens, and it threw some of the starry host down to the earth and trampled on them.  ^e8f2ab [[The Beast out of the Earth#^c28c57]]
