@@ -1,6 +1,6 @@
 1. Then I saw another angel flying in midair, and he had the eternal gospel to proclaim to those who live on the earth—to every nation, tribe, language and people. 
 2. He said in a loud voice, “Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.”
-3. A second angel followed and said, “ ‘Fallen! Fallen is Babylon the Great,’ which made all the nations drink the maddening wine of her adulteries.”
+3. A second angel followed and said, “ ‘Fallen! Fallen is ==Babylon== the Great,’ which made all the nations drink the maddening wine of her adulteries.” => First-century Jews sometimes used Babylon as a code word for “Rome,” including Christian Jews such as Peter, who uses it that way in 1 Peter 5:13 [[Final Greetings#^aec667]]
 4. A third angel followed them and said in a loud voice: “If anyone worships the beast and its image and receives its mark on their forehead or on their hand, 
 5. they, too, will drink the wine of God’s fury, which has been poured full strength into the cup of his wrath. They will be tormented with burning sulfur in the presence of the holy angels and of the Lamb. 
 6. And the smoke of their torment will rise for ever and ever. There will be no rest day or night for those who worship the beast and its image, or for anyone who receives the mark of its name.” 

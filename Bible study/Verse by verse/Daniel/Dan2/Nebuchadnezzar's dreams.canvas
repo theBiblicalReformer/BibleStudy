@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"dffe93505c7e1237","x":-311,"y":79,"width":611,"height":721,"type":"text","text":"a large statue"},
+		{"id":"d75fd066e8b9718f","x":-140,"y":140,"width":250,"height":60,"type":"text","text":"gold"},
+		{"id":"2796a4269fc34fa3","x":-195,"y":260,"width":360,"height":120,"type":"text","text":"silver"},
+		{"id":"2bbae30e8d869511","x":-195,"y":440,"width":395,"height":120,"type":"text","text":"bronze"},
+		{"id":"1e0c9d7228286163","x":-195,"y":620,"width":395,"height":60,"type":"text","text":"iron"}
+	],
+	"edges":[]
+}

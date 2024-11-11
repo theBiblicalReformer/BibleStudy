@@ -1,4 +1,4 @@
-1. I looked, and there before me was a white cloud, and seated on the cloud was one like a son of man with a crown of gold on his head and a sharp sickle in his hand. 
+1. I looked, and there before me was a white cloud, and seated on the cloud was one like ==a son of man with a crown of gold on his head and a sharp sickle in his hand==. 
 2. Then another angel came out of the temple and called in a loud voice to him who was sitting on the cloud, “Take your sickle and reap, because the time to reap has come, for the harvest of the earth is ripe.” 
 3. So he who was seated on the cloud swung his sickle over the earth, and the earth was harvested.
 4. Another angel came out of the temple in heaven, and he too had a sharp sickle. 

@@ -1,0 +1,5 @@
+1. When he opened the seventh seal, there was ==silence in heaven== ==for about half an hour==. -> this is the continuation of seals opening [[The Seals#^2178a1]]
+2. And I saw ==the seven angels== who stand before God, and ==seven trumpets== were given to them. -> seven angels was mentioned before in this letter, mentioned as seven angels of seven churches
+3. ==Another angel,== who had a golden censer, came and stood at the altar. He was given much ==incense to offer==, with ==the prayers of all God’s people==, on the golden altar in front of the throne. -> this another angel may not be one of the seven angels because he was not holding the trumpet, God's people here is people who was living or with Christ in heaven
+4. The ==smoke of the incense==, together with ==the prayers of God’s people==, ==went up before God== from the angel’s hand. 
+5. Then the angel took the censer, filled it with fire from the altar, and ==hurled it on the earth==; and there came ==peals of thunder, rumblings, flashes of lightning and an earthquake==.

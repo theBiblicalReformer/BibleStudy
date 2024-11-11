@@ -1,0 +1,3 @@
+1. With the help of Silas, whom I regard as a faithful brother, I have written to you briefly, encouraging you and testifying that this is the true grace of God. Stand fast in it.
+2. She? who is in ==Babylon==, chosen together with you, sends you her greetings, and so does my son Mark. => First-century Jews sometimes used Babylon as a code word for “Rome" ^aec667
+3. Greet one another with a kiss of love. Peace to all of you who are in Christ.

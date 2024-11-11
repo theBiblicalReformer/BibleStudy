@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"428d434d134a987d","x":-766,"y":-145,"width":250,"height":60,"type":"text","text":"God gave Jesus the revelation"},
+		{"id":"a84ff9ab96bf9c68","x":-460,"y":-145,"width":250,"height":60,"type":"text","text":"Jesus gave the revelation to his angel"},
+		{"id":"787c4c8856ec3e41","x":-180,"y":-145,"width":250,"height":60,"type":"text","text":"Angel gave the revelation to John"},
+		{"id":"db04555efda78070","x":100,"y":-145,"width":250,"height":60,"type":"text","text":"John write this letter to seven churches in the province of Asia"},
+		{"id":"bf1ab280d22fbf66","x":-766,"y":-85,"width":836,"height":65,"type":"text","text":"[[1. Prologue]]"},
+		{"id":"5486f319a3a41dec","x":100,"y":-85,"width":250,"height":60,"type":"text","text":"[[2. Greetings and Doxology#^ce6e68]]\n\n[[3. John’s Vision of Christ#^834d95]]"}
+	],
+	"edges":[]
+}

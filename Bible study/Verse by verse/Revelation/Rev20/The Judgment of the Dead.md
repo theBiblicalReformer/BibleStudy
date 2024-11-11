@@ -3,3 +3,7 @@
 3. The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them [[The End Times#^4d3c4f]], and each person was judged according to what they had done. 
 4. Then death and Hades were thrown into the lake of fire. The lake of fire is the second death. 
 5. Anyone whose name was not found written in the book of life was thrown into the lake of fire. [[The End Times#^4a7078]]
+
+
+> [!NOTE] The resurrection
+> ...

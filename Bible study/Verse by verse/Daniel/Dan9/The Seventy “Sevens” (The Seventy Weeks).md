@@ -3,9 +3,14 @@
 3. He instructed me and said to me, “Daniel, I have now come to give you insight and understanding. 
 4. As soon as you began to pray, a word went out, which I have come to tell you, for you are highly esteemed. Therefore, consider the word and understand the vision:
 5. “Seventy ‘sevens’ are decreed for your people and your holy city to finish transgression, ==to put an end to sin==, ==to atone for wickedness==, to bring in ==everlasting righteousness==, to seal up vision and prophecy and to anoint the Most Holy Place. ^280f6f
-6. “Know and understand this: From the time the word goes out to restore and rebuild Jerusalem until the ==Anointed One [[Jesus Rejected at Nazareth#^2e3baa]], the ruler==, ==comes==, there will be seven ‘sevens,’ and sixty-two ‘sevens.’ It will be rebuilt with streets and a trench, but in times of trouble.  ^64d39c
+6. “Know and understand this: From the time the word goes out to restore and rebuild Jerusalem until the ==Anointed One [[Jesus Rejected at Nazareth#^2e3baa]], the ruler==, ==comes==, there will be ==seven ‘sevens,’== and ==sixty-two ‘sevens.’== It will be rebuilt with streets and a trench, but in times of trouble.  ^64d39c
 7. After the sixty-two ‘sevens,’ ==the Anointed One will be put to death== [[The Death of Jesus#^db88b8]] and will have nothing. 
 8. The people of the ruler who will come will destroy the city and the sanctuary. 
-9. The end will come like a flood: War will continue until the end, and desolation have been decreed. 
-10. He will confirm a covenant with many for one ‘seven.’ In the middle of the ‘seven’ he will put an end to sacrifice and offering. 
-11. And at the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.” ^b8298e
+9. ==The end== will come like a flood: ==War== will continue until ==the end==, and desolation have been decreed.  ^c931ee
+10. He will confirm a covenant with many for one ‘seven.’ In the middle of the ‘seven’ he will ==put an end to sacrifice and offering==. 
+11. And at the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on ==him==. (the one who causes the horror)” ^b8298e
+
+
+> [!NOTE] Week = year
+> Almost all commentators agree that the seventy “sevens” should be understood as seventy “weeks” of years, in other words, a period of 490 years.
+

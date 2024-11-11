@@ -17,3 +17,13 @@ Bloom taxonomy
 4. Analyze: draw connection among ideas  (differentiate, organize, relate, compare, contrast, examine, experiment, question, test...)
 5. Evaluate: justify a stand or decision (appraise, argue, defend, judge, select, support, value, critique, weigh)
 6. Create: produce new or original work (design, assemble, construct, conjecture, develop, formulate, author, investigate)
+
+
+Medieval method:
+
+Lectio: morning - read a text to students and explain hard passages
+Disputatio: afternoon - debate on a question or questions between students and master
++ Ordinary: question for debate given before discussion
++ Quadliminal "whatever" students could pose any question to master
+One student writes the debate down
+Determinatio - master takes notes home and comes up with final answer in the morning

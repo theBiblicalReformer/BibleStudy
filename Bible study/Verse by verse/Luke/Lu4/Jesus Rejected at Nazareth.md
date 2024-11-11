@@ -2,7 +2,7 @@
 2. He was teaching in their synagogues, and everyone praised him.
 3. He went to Nazareth, where he had been brought up, and on the Sabbath day he went into the synagogue, as was his custom. He stood up to read, 
 4. and the scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written:
-5.  “The Spirit of the Lord is on me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, [[The Seventy “Sevens” (The Seventy Weeks)#^64d39c]] to proclaim the year of the Lord’s favor.” ^2e3baa
+5.  “The Spirit of the Lord is on me, because he has ==anointed== me to proclaim good news to the poor. He has sent me to proclaim freedom for the prisoners and recovery of sight for the blind, to set the oppressed free, [[The Seventy “Sevens” (The Seventy Weeks)#^64d39c]] to proclaim the year of the Lord’s favor.” ^2e3baa
 6. Then he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fastened on him. 
 7. He began by saying to them, “Today this scripture is fulfilled in your hearing.”
 8. All spoke well of him and were amazed at the gracious words that came from his lips. “Isn’t this Joseph’s son?” they asked.

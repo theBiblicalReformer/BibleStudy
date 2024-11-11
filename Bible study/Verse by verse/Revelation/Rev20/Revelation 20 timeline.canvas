@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"67c03c55196bc04d","type":"file","file":"Bible study/Verse by verse/Revelation/Rev20/The Judgment of Satan.md","x":240,"y":-161,"width":400,"height":400},
+		{"id":"c02feeae551c16e2","type":"file","file":"Bible study/Verse by verse/Revelation/Rev20/The Thousand Years.md","x":-480,"y":-161,"width":400,"height":400},
+		{"id":"8ba53e21b5dce517","type":"file","file":"Bible study/Verse by verse/Revelation/Rev20/The Judgment of the Dead.md","x":960,"y":-161,"width":400,"height":400},
+		{"id":"af34eb51f261b9bd","x":-470,"y":281,"width":390,"height":59,"type":"text","text":"The rest of the dead did not come to life until the thousand years were ended"},
+		{"id":"5a4619a71051fbdd","x":965,"y":281,"width":355,"height":110,"type":"text","text":"The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them"},
+		{"id":"31d457ef5c885035","x":960,"y":440,"width":305,"height":118,"type":"text","text":"The lake of fire is the second death."},
+		{"id":"077059329a461913","x":-470,"y":402,"width":290,"height":195,"type":"text","text":" those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years"}
+	],
+	"edges":[
+		{"id":"c4ccb12679f097ca","fromNode":"c02feeae551c16e2","fromSide":"right","toNode":"67c03c55196bc04d","toSide":"left"},
+		{"id":"a718fcc586fe25a7","fromNode":"67c03c55196bc04d","fromSide":"right","toNode":"8ba53e21b5dce517","toSide":"left"},
+		{"id":"e82f244261fbd569","fromNode":"077059329a461913","fromSide":"right","toNode":"31d457ef5c885035","toSide":"left","label":"the resurrected people in the 1st resurrection will reign with Christ for a thousand years "}
+	]
+}

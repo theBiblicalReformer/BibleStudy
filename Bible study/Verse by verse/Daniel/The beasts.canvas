@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"cfef3358085a02e4","type":"text","text":"The Beast out of the Sea","x":-160,"y":-453,"width":519,"height":773},
+		{"id":"0ba3f76c99550383","type":"text","text":"a mouth like that of a lion\n[[The Beast out of the Sea (The First Beast)#^1d9038]]","x":-71,"y":-237,"width":340,"height":118},
+		{"id":"259caea94a1206dd","type":"text","text":"a leopard body\n[[The Beast out of the Sea (The First Beast)#^1d9038]]","x":-71,"y":-380,"width":340,"height":120},
+		{"id":"0e9d37fb943fadc7","type":"text","text":"bear's feet \n[[The Beast out of the Sea (The First Beast)#^1d9038]]","x":-71,"y":-66,"width":371,"height":126},
+		{"id":"ffdfb4946138d4f3","type":"text","text":"ten horns and seven heads, with ten crowns on its horns\n[[The Beast out of the Sea (The First Beast)#^4a4263]]\n","x":-71,"y":110,"width":371,"height":140},
+		{"id":"81c4b657c7463a3d","type":"text","text":"Lion","x":-600,"y":-203,"width":250,"height":50},
+		{"id":"add830c8ad5fe585","type":"text","text":"Leopard","x":-600,"y":-350,"width":250,"height":60},
+		{"id":"4420b24590109188","type":"text","text":"Bear","x":-600,"y":-33,"width":250,"height":60},
+		{"id":"28bef876d9b85f38","type":"text","text":"The 4th beast has 10 horns","x":-600,"y":150,"width":250,"height":60},
+		{"id":"4406dc6a299e2b84","type":"text","text":"The beast out of the earth","x":-160,"y":640,"width":519,"height":552},
+		{"id":"e5ec2c0e18a6a440","type":"text","text":"It had two horns like a lamb\n[[The Beast out of the Earth (The Second Beast)#^49462c]]","x":-56,"y":719,"width":311,"height":79},
+		{"id":"79001864118b8b21","type":"text","text":"a ram with two horns","x":-600,"y":710,"width":280,"height":97},
+		{"id":"28ec433729a6d6c9","type":"text","text":"The four great beasts are four kings that will rise from the earth","x":-960,"y":-350,"width":313,"height":560},
+		{"id":"95caf474795e9306","x":800,"y":-460,"width":405,"height":281,"type":"text","text":"a great red dragon, with seven heads and ten horns, and on his heads seven diadems.\n[[The Woman and the Dragon#^05badf]]\n"}
+	],
+	"edges":[
+		{"id":"492cf429d6e9b2bf","fromNode":"ffdfb4946138d4f3","fromSide":"left","toNode":"28bef876d9b85f38","toSide":"right"},
+		{"id":"770abffb9c545dd1","fromNode":"0e9d37fb943fadc7","fromSide":"left","toNode":"4420b24590109188","toSide":"right"},
+		{"id":"aeeecf4a5c279264","fromNode":"259caea94a1206dd","fromSide":"left","toNode":"add830c8ad5fe585","toSide":"right"},
+		{"id":"64e090898ba400b1","fromNode":"0ba3f76c99550383","fromSide":"left","toNode":"81c4b657c7463a3d","toSide":"right"},
+		{"id":"7174f2302d041270","fromNode":"e5ec2c0e18a6a440","fromSide":"left","toNode":"79001864118b8b21","toSide":"right"},
+		{"id":"060416275b52e58a","fromNode":"cfef3358085a02e4","fromSide":"top","toNode":"28ec433729a6d6c9","toSide":"top","label":"Satanic goverment"},
+		{"id":"df92c094ca592907","fromNode":"cfef3358085a02e4","fromSide":"right","toNode":"95caf474795e9306","toSide":"left","label":"7 heads, 10 horns"}
+	]
+}

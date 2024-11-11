@@ -13,7 +13,7 @@
 13. “This was the dream, and now we will interpret it to the king. 
 14. Your Majesty, you are the king of kings. The God of heaven has given you dominion and power and might and glory; 
 15. in your hands he has placed all mankind and the beasts of the field and the birds in the sky. Wherever they live, he has made you ruler over them all. ==You are that head of gold==. ^651c4d
-16. “==After you==, another kingdom will arise[[The Writing on the Wall#^f36bf0]], inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth.  ^94643a
+16. “==After you==, another kingdom will arise[[The Writing on the Wall#^f36bf0]], inferior to yours. Next, a third kingdom[[The Interpretation of the Vision#^914e80]], one of bronze, will rule over the whole earth.  ^94643a
     => Gold > Silver -> Bronze will rule the whole earth 
 17. Finally, there will be a ==fourth kingdom==, strong as iron—for iron breaks and smashes everything—and as iron breaks things to pieces, so ==it will crush and break all the others==. 
 18. Just as you saw that the feet and toes were partly of baked clay and partly of iron, so this will be a divided kingdom; yet it will have some of the strength of iron in it, even as you saw iron mixed with clay. 

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"ed6a5b6c1310804d","type":"file","file":"Bible study/Verse by verse/Revelation/Rev12/The Woman and the Dragon.md","x":-220,"y":-80,"width":400,"height":400},
+		{"id":"2161e5ebab043a8a","type":"file","file":"Bible study/Verse by verse/Revelation/Rev13/The Beast out of the Sea (The First Beast).md","x":180,"y":-80,"width":400,"height":400},
+		{"id":"405ecfdc8adbe15a","type":"file","file":"Bible study/Verse by verse/Revelation/Rev13/The Beast out of the Earth (The Second Beast).md","x":580,"y":-80,"width":400,"height":400},
+		{"id":"7a7343fc3ce03d05","type":"file","file":"Bible study/Verse by verse/Daniel/Dan7/Daniel’s Dream of Four Beasts.md","x":180,"y":360,"width":400,"height":400},
+		{"id":"bf5a9feab413cdcb","type":"file","file":"Bible study/Verse by verse/Daniel/Dan8/Daniel’s Vision of a Ram and a Goat.md","x":580,"y":360,"width":400,"height":400},
+		{"id":"9a286768397c941d","type":"file","file":"Bible study/Verse by verse/Revelation/Rev13/The Beast out of the Sea (The First Beast).md","x":-220,"y":360,"width":400,"height":400},
+		{"id":"fffcf8fe035816c3","type":"file","file":"Bible study/Verse by verse/Daniel/Dan7/Daniel’s Dream of Four Beasts.md","x":-220,"y":800,"width":400,"height":400},
+		{"id":"abde774bab153f0a","type":"file","file":"Bible study/Verse by verse/Daniel/Dan2/Daniel Interprets the Dream.md","x":200,"y":800,"width":400,"height":400},
+		{"id":"1fc099e2be784e44","x":980,"y":-80,"width":400,"height":400,"type":"file","file":"Bible study/Verse by verse/Revelation/Rev17/The Great Prostitute and the Beast.md"},
+		{"id":"2f0e581c8b3c3bf4","type":"text","text":"The four great beasts are four kings that will rise from the earth","x":180,"y":-380,"width":400,"height":120},
+		{"id":"1c1930554c5173fa","type":"text","text":"Greco-Persian Wars\n(479 BC - 431 BC)","x":655,"y":-440,"width":250,"height":60},
+		{"id":"e49b70732f0ba5b7","type":"text","text":"kings of Media and Persia","x":580,"y":-380,"width":200,"height":120},
+		{"id":"11decfd48c141ac4","type":"text","text":"king of Greece","x":780,"y":-380,"width":200,"height":120},
+		{"id":"1d63c012b2374192","type":"text","text":"0","x":-380,"y":-260,"width":250,"height":60},
+		{"id":"a0046e667531fda1","type":"file","file":"Bible study/Verse by verse/Daniel/Dan8/The Interpretation of the Vision.md","x":600,"y":800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"61da5541582abcd3","fromNode":"ed6a5b6c1310804d","fromSide":"top","toNode":"2161e5ebab043a8a","toSide":"top","label":"an enormous red dragon with  and ten horns and seven crowns on its heads -> a beast coming out of the sea. It had ten horns and seven heads, with ten crowns "}
+	]
+}

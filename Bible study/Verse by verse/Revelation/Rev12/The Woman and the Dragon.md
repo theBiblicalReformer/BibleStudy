@@ -1,6 +1,6 @@
 1. A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. This probably a metaphor about Israelites, Jacob's family is the descendants of almost all Israelites [[Joseph's dream#^21c931]]
 2. She was pregnant and cried out in pain as she was about to give birth. 
-3. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. 
+3. Then another sign appeared in heaven: ==an enormous red dragon== with ==seven heads== and ==ten horns== and ==seven crowns== on its heads.  ^05badf
 4. Its tail swept a third of the stars out of the sky and flung them to the earth. 
 5. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. [[Isaiah 9#^669493]]
 6. She gave birth to a son, a male child, who “will rule all the nations with an iron scepter.” And her child was snatched up to God and to his throne. [[Isaiah 9#^b40ad2]]
